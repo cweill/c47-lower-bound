@@ -64,4 +64,5 @@ The search starts from Röhrig's measure in
    squares, followed by further rounds. The atom count grew from 452 to 1,498.
 
 This is an unrefereed computer-assisted result. Charles Weill, with Claude (Anthropic) running in
-KnowOp agents, which carried out the search, wrote the checker and prepared the text.
+KnowOp agents, which carried out the search, wrote the checker and prepared the text. Charles Weill
+reviewed the result and replayed both of Pinho's checkers on this certificate.
